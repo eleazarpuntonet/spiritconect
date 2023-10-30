@@ -3,18 +3,17 @@ import React from "react";
 export const Services = (props) => {
   return (
     <div id="services" className="text-center">
-      <div className="container">
+      <div className="container overlay">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>Consultate</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Contacta uno de nuestros chamanes para una consulta gratuita.
           </p>
         </div>
         <div className="row">
           {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
+            && props.data.map((d, i) => (
+                <div key={i} className="col-md-4">
                   {" "}
                   <i className={d.icon}></i>
                   <div className="service-desc">
@@ -23,7 +22,7 @@ export const Services = (props) => {
                   </div>
                 </div>
               ))
-            : "loading"}
+          }
         </div>
       </div>
     </div>

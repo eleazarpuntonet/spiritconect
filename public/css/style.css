@@ -76,7 +76,9 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #fff;
+  /* background-color: #fff; */
+  background-color: #214E34;
+  /* background-color: #7D49B3; */
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -84,13 +86,13 @@ hr {
   font-family: "Raleway", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: #333;
+  color: #FFD700;
   text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #555;
+  color: #fff;
   font-size: 15px;
   font-weight: 400;
   padding: 8px 2px;
@@ -104,7 +106,8 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #FFD700 0%, #FFD700 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
   content: "";
   transition: width 0.2s;
 }
@@ -167,7 +170,8 @@ hr {
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  /* background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%); */
+  background: linear-gradient(to right, #4c1b80 0%, #776091 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -208,7 +212,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/bg.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -217,6 +221,10 @@ a:focus,
 }
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
+}
+#services .overlay {
+  background: rgba(17, 28, 37, 0.4);
+  /* background: linear-gradient(to right, #111c25 0%, #1b3e57 100%); */
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -246,7 +254,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-  background: #f6f6f6;
+  background: #c0bec3;
 }
 #features i.fa {
   font-size: 38px;
@@ -257,7 +265,8 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+  background: linear-gradient(to right, #4c1b80 0%, #776091 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
@@ -310,7 +319,8 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: url(../img/consultate.jpg) center center no-repeat;
+  background-size: cover;
   color: #fff;
 }
 #services .service-desc {
@@ -334,7 +344,8 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+  background: linear-gradient(to right, #4c1b80 0%, #776091 100%);
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -460,7 +471,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #111c25 0%, #1b3e57 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {

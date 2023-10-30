@@ -1,184 +1,153 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Conexion Espiritual",
+    "paragraph": "Vive el Poder de los Hechizos y la Magia Ancestral."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "En el Altar Místico, te abrimos las puertas a los misterios del mundo esotérico. Nuestras brujas y curanderos con experiencia te ofrecen una amplia gama de servicios espirituales. Nuestra misión es iluminar el camino del amor, la prosperidad y la iluminación espiritual. Estamos comprometidos con tu bienestar y te ofrecemos una luz guía en tu viaje místico.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Practicantes Espirituales Experimentados",
+      "Hechizos Garantizados al 100%",
+      "Discreción y Privacidad Total"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Consultas Seguras y Confiables",
+      "Servicios Profesionales y Éticos",
+      "Tus Secretos Están Seguros con Nosotros",
+      "Un Camino hacia la Iluminación Mística"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Lanzamiento de Hechizos",
+      "largeImage": "img/hechizos/01-grande.jpg",
+      "smallImage": "img/hechizos/01-pequeño.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Magia del Amor",
+      "largeImage": "img/hechizos/02-grande.jpg",
+      "smallImage": "img/hechizos/02-pequeño.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Rituales de Prosperidad",
+      "largeImage": "img/hechizos/03-grande.jpg",
+      "smallImage": "img/hechizos/03-pequeño.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Limpieza Espiritual",
+      "largeImage": "img/hechizos/04-grande.jpg",
+      "smallImage": "img/hechizos/04-pequeño.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Amarres de Amor",
+      "largeImage": "img/hechizos/05-grande.jpg",
+      "smallImage": "img/hechizos/05-pequeño.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Guía y Apoyo Espiritual",
+      "largeImage": "img/hechizos/06-grande.jpg",
+      "smallImage": "img/hechizos/06-pequeño.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-heart",
+      "name": "Hechizos de Amor",
+      "text": "Nuestras brujas experimentadas te ofrecen poderosos hechizos de amor para sanar corazones rotos y atraer un nuevo amor a tu vida. Siente la magia del amor verdadero."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-money",
+      "name": "Rituales de Prosperidad",
+      "text": "Abre las puertas al éxito financiero con nuestros rituales de prosperidad. Alcanza la riqueza y la abundancia como nunca lo imaginaste."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-star",
+      "name": "Limpieza Espiritual",
+      "text": "Experimenta los efectos rejuvenecedores de la limpieza espiritual. Elimina las energías negativas y encuentra la paz interior."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-heart",
+      "name": "Recuperación del Amor",
+      "text": "Nuestros expertos se especializan en reavivar amores perdidos. Sana heridas pasadas y reúnete con tu alma gemela."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-eye",
+      "name": "Guía Mística",
+      "text": "Recibe una guía mística personalizada de nuestros hábiles practicantes. Descubre tu verdadero camino y propósito."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Los hechizos del Altar Místico cambiaron mi vida. Encontré el amor verdadero y la prosperidad. Sus brujas son realmente talentosas.\"",
+      "name": "Juan Carrillo"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Al principio era escéptico, pero los hechizos de amor del Altar Místico hicieron maravillas. Estoy agradecido más allá de las palabras.\"",
+      "name": "Jimena Castillo"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"El Altar Místico devolvió la paz y la felicidad a mi vida. Su limpieza espiritual es extraordinaria.\"",
+      "name": "Salvador Acosta"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Las brujas del Altar Místico son auténticas profesionales. Me ayudaron a recuperar un amor perdido.\"",
+      "name": "Julio Montilla"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/equipo/01.jpg",
+      "name": "Maestra Hechicera María",
+      "job": "Maestra Curandera y Bruja"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/equipo/02.jpg",
+      "name": "Hechicero Javier",
+      "job": "Especialista en Hechizos de Amor"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/equipo/03.jpg",
+      "name": "Vidente Isabella",
+      "job": "Guía Espiritual"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/equipo/04.jpg",
+      "name": "Hechicera Carmen",
+      "job": "Experta en Amarres de Amor"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "4321 Calle California, San Francisco, CA 12345",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "email": "info@altarmistico.com",
+    "facebook": "facebook.com/altarmistico",
+    "twitter": "twitter.com/altarmistico",
+    "youtube": "youtube.com/altarmistico"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lock",
+      "title": "Tus Secretos Están Seguros",
+      "text": "Priorizamos tu privacidad y confidencialidad. Puedes estar seguro de que tu viaje místico es un secreto bien guardado."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-star",
+      "title": "Magia Garantizada",
+      "text": "Nuestros hechizos y rituales cuentan con una garantía de satisfacción del 100%. Experimenta la magia o te devolvemos tu dinero."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-user-secret",
+      "title": "Discreción Total",
+      "text": "Tu identidad y consultas místicas se mantienen en estricta confidencialidad. Tus secretos están protegidos con nosotros."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-users",
+      "title": "Practicantes Experimentados",
+      "text": "Nuestro equipo de brujas y curanderos son expertos con una rica experiencia en el mundo místico. Confía en los mejores."
     }
   ]
 }

@@ -15,9 +15,8 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   href="#features"
-                  className="btn btn-custom btn-lg page-scroll"
-                >
-                  Learn More
+                  className="btn btn-custom btn-lg page-scroll">
+                  Contacta via Whatsapp
                 </a>{" "}
               </div>
             </div>
