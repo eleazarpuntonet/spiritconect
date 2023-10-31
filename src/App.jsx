@@ -11,6 +11,7 @@ import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
+import { FloatingWhatsApp } from "react-floating-whatsapp";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -22,6 +23,10 @@ const App = () => {
   useEffect(() => {
     setLandingPageData(JsonData);
   }, []);
+  const tlf = '+56967767446'
+  const ctaName = 'Maestra Fátima'
+  const statusMessage = 'Responde en 2 minutos'
+  const chatMessage = 'Hola, como te puedo ayudar? \nCuentame tu situaciòn'
 
   return (
     <div>
@@ -32,6 +37,14 @@ const App = () => {
       <Services data={landingPageData.Services} />
       <Testimonials data={landingPageData.Testimonials} />
       <Contact data={landingPageData.Contact} />
+      <FloatingWhatsApp  
+                    // avatar={assets.avatar}
+                    chatMessage={chatMessage}
+                    messageDelay='5'
+                    statusMessage={statusMessage}
+                    accountName={ctaName}
+                    placeholder='Escribe un mensaje...'
+                    phoneNumber={tlf}/>         
     </div>
   );
 };

@@ -615,3 +615,7 @@ label {
     margin: 50px 0;
   }
 }
+
+.floating-whatsapp{
+  height: 0px !important;
+}
